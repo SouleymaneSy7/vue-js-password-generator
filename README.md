@@ -105,7 +105,7 @@ If you'd like to contribute to this Vue.js project, please follow these guidelin
 
 ## Links
 
-- Live Site URL Here: [Password Generator](https://your-live-site-url.com)
+- Live Site URL Here: [Password Generator](https://vue-js-password-generator.vercel.app/)
 
 ## Author
 
@@ -115,4 +115,4 @@ If you'd like to contribute to this Vue.js project, please follow these guidelin
 
 ---
 
-Happy password generating with Vue.js and Vite.js! If you have any questions or encounter any issues, please don't hesitate to [open an issue](https://github.com/SouleymaneSy7/password-generator/issues).
+Happy password generating with Vue.js and Vite.js! If you have any questions or encounter any issues, please don't hesitate to [open an issue](https://github.com/SouleymaneSy7/vue-js-password-generator/issues).
